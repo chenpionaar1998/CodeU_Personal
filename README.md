@@ -1,6 +1,6 @@
 # CodeU Example Project
 
-A chat application is complete and functional example, but it leaves
+A chat application is complete and functional project, but it leaves
 plenty of room for improvement.
 
 ## Step 1: Download Java
